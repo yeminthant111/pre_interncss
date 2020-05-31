@@ -1,0 +1,35 @@
+#div1{
+    text-align: center;
+    color: brown;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+#div2{
+    text-align: center;
+    color: cadetblue;
+    font-size: xx-small;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    border: violet dotted;
+    background-color: teal;
+    height: 200px;
+    width: 200px;
+    margin: 50px;
+    padding: 20px;
+
+}
+
+.div3{
+    font-size: smaller;
+    text-align: right;
+    font-family: monospace;
+    font-style: italic;
+    background-color: forestgreen;
+}
+.box{
+    width: 300px;
+    float: right;
+    margin:  10px ;
+    
+}
